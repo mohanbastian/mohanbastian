@@ -36,9 +36,6 @@ Here are some ideas to get you started:
   <a href="https://www.microsoft.com/en-us/sql-server">
     <img src="https://github.com/mohanbastian/mohanbastian/blob/main/Assets/icons8-microsoft-sql-server-48.png">
   </a>
-  <a href="https://www.w3schools.com/css/">
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-  </a>
   <a href="https://visualstudio.microsoft.com/">
     <img src="https://github.com/mohanbastian/mohanbastian/blob/main/Assets/icons8-visual-studio-48.png">
   </a>
