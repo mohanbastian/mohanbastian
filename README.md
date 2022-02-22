@@ -1,5 +1,7 @@
 ### <h1 align="center"> Hi there 👋</h1> 
 
+<p align="center"><img align="center" src="https://github.com/mohanbastian/mohanbastian/blob/main/Assets/MCSA-Web-Applications-2019.png" alt="MCSA: Web Applications - Certified" height="100" width="100" /></p>
+
 <p align="justify">Hi, I'm George Mohan, a passionate self-taught full stack web developer from Singapore. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.</p>
 
 <p align="justify">An accomplished and fluent communicator with a strong investigation, problem-solving and decision-making skills, combined with a pragmatic approach and sound business acumen. Software Engineering was a field that I found closely tailored to my personality as it intertwines both computer science and interpersonal skills.</p>
@@ -11,7 +13,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Angular
 - ⚡ Fun fact: I ❤️ long walks, being idle when the time permits, cooking and etc..
 
-<p align="center"><img align="center" src="https://github.com/mohanbastian/mohanbastian/blob/main/Assets/MCSA-Web-Applications-2019.png" alt="MCSA: Web Applications - Certified" height="100" width="100" /></p>
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
