@@ -1,4 +1,4 @@
-### <h1 align="center"> Hi there 👋</h1>
+### <h1 align="center"> Hi there 👋</h1> 
 
 <p align="justify">Hi, I'm George Mohan, a passionate self-taught full stack web developer from Singapore. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.</p>
 
@@ -36,9 +36,6 @@ Here are some ideas to get you started:
   <a href="https://www.microsoft.com/en-us/sql-server">
     <img src="https://github.com/mohanbastian/mohanbastian/blob/main/Assets/icons8-microsoft-sql-server-48.png">
   </a>
-  <a href="https://www.w3schools.com/css/">
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-  </a>
   <a href="https://visualstudio.microsoft.com/">
     <img src="https://github.com/mohanbastian/mohanbastian/blob/main/Assets/icons8-visual-studio-48.png">
   </a>
@@ -54,16 +51,5 @@ Here are some ideas to get you started:
   
 </p>
 <!--
-**mohanbastian/mohanbastian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**mohanbastian/mohanbastian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
