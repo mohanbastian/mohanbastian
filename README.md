@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Angular
 - ⚡ Fun fact: I ❤️ long walks, being idle when the time permits, cooking and etc..
 
-<p align="center"><img align="center" src="https://github.com/mohanbastian/mohanbastian/blob/main/Assets/facebook-48.png" alt="George Mohan Bastiampillai" height="40" width="40" /></p>
+<p align="center"><img align="center" src="https://github.com/mohanbastian/mohanbastian/blob/main/Assets/MCSA-Web-Applications-2019.png" alt="MCSA: Web Applications - Certified" height="100" width="100" /></p>
 
 🔗 &nbsp;**Connect with me**
 <p align="center">
