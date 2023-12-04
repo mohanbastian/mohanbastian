@@ -1,6 +1,6 @@
 ### <h1 align="center"> Hi there 👋</h1> 
 
-<p align="center"><img align="center" src="https://github.com/mohanbastian/mohanbastian/blob/main/Assets/MCSA-Web-Applications-2019.png" alt="MCSA: Web Applications - Certified" height="100" width="100" /></p>
+<p align="center"><img align="center" src="https://github.com/mohanbastian/mohanbastian/blob/main/Assets/microsoft-certified-expert-badge.svg" alt="DevOps Engineer Expert" height="100" width="100" /></p>
 
 <p align="justify">Hi, I'm George Mohan, a passionate self-taught full stack web developer from Singapore. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.</p>
 
