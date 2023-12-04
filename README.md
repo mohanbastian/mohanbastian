@@ -10,7 +10,7 @@
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on MySelf(Constantly)
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning React
 - ⚡ Fun fact: I ❤️ long walks, being idle when the time permits, cooking and etc..
 
 
